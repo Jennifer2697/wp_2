@@ -1,0 +1,18 @@
+/*******************************************************************************************************************
+*  LINKS                                                                                                           
+*******************************************************************************************************************/
+a, a:link, a:focus{color:#e34622;}
+
+/*******************************************************************************************************************
+*  HEADER                                                                                                          
+*******************************************************************************************************************/
+#intro1{background:#e34622 url("img/blue/intro-repeat.png") repeat-x; border-top:1px solid #e7721e;}
+#intro1 .inner{background:url("img/blue/Contact us.png") no-repeat 50% 0; max-width:100%; max-width:100%;}
+#intro1 .button{box-shadow:0 2px 2px #24528d;}
+
+#intro2{background:#e34622 url("img/blue/intro-repeat.png") repeat-x; border-top:1px solid #e7721e;}
+#intro2 .inner{background:url("img/blue/about me.png") no-repeat 50% 0; max-width:100%; max-width:100%;}
+#intro2 .button{box-shadow:0 2px 2px #24528d;}
+
+
+
